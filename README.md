@@ -167,4 +167,36 @@ void Start()
 
 ```
 
+### Link
+
+```
+Un [link](https://github.com "GitHub") a github.
+
+https://github.com "GitHub
+
+[GitHub](https://github.com "GitHub")
+```
+
+Un [link](https://github.com "GitHub") a github.
+
+https://github.com "GitHub
+
+[GitHub](https://github.com "GitHub")
+
+### Referenciar links
+
+```
+Aqui referneciamos [un link][1] y
+aqui otro [link][2].
+
+[1]: https://github.com "GitHub"
+[2]: https://github.io "GitHub io"
+```
+
+Aqui referneciamos [un link][1] y
+aqui otro [link][2].
+
+[1]: https://github.com "GitHub"
+[2]: https://github.io "GitHub io"
+
 ###
