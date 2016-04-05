@@ -50,4 +50,44 @@ _____________________________________
 
 _____________________________________
 
+### Lista
+
+```
+* Item
+* Item
+- Item
+- Item
+```
+
+* Item
+* Item
+- Item
+- Item
+
+### Lista numerada
+
+```
+1. Item
+2. Item
+```
+
+1. Item
+2. Item
+
+### Lista Mixta
+
+```
+1. Item
+2. Item
+   * Mixed
+   * Mixed  
+3. Item
+```
+
+1. Item
+2. Item
+   * Mixed
+   * Mixed  
+3. Item
+
 ### 
