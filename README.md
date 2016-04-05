@@ -241,4 +241,16 @@ aqui otro [link][2].
 | 1.0.0   | Estable   | 0 bugs |
 | 2.0.0   | No Estable| 12 bugs|
 
+### Notas
+
+```
+Para tomar cualquier nota [^1] a pie de pagina.
+
+[^1]: Esta seria la nota.
+```
+
+Para tomar cualquier nota [^1] a pie de pagina.
+
+[^1]: Esta seria la nota.
+
 ### 
