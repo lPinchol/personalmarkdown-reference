@@ -90,4 +90,20 @@ _____________________________________
    * Mixed  
 3. Item
 
+### Bloques
+
+```
+> Bloque de texto.
+> > Bloque dentro de bloque.
+
+> * Lista en bloque 1 
+> * Lista en bloque 2
+```
+
+> Bloque de texto.
+> > Bloque dentro de bloque.
+
+> * Lista en bloque 1 
+> * Lista en bloque 2
+
 ### 
