@@ -106,4 +106,65 @@ _____________________________________
 > * Lista en bloque 1 
 > * Lista en bloque 2
 
-### 
+### Codigo
+
+```
+Referencia a codigo `Start()`.
+`Esto es codigo`
+```
+
+Referencia a codigo `Start()`.
+
+`Esto es codigo`
+
+### Bloque de codigo
+
+```
+~~~~
+Esto es una parte 
+bloque de
+codigo.
+~~~~
+```
+
+```
+```
+Esto es una parte 
+bloque de
+codigo.
+```
+```
+
+~~~~
+Esto es una parte 
+bloque de
+codigo.
+~~~~
+
+```
+Esto es una parte 
+bloque de
+codigo.
+```
+
+### Especificar codigo
+
+```
+```C#
+void Start()
+{
+    //Esto es un comentario en C#
+}
+
+```
+```
+
+```C#
+void Start()
+{
+    //Esto es un comentario en C#
+}
+
+```
+
+###
