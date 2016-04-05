@@ -199,4 +199,22 @@ aqui otro [link][2].
 [1]: https://github.com "GitHub"
 [2]: https://github.io "GitHub io"
 
+### Imagenes
+
+```
+![Img](https://github.com/lPinchol/personalmarkdown-reference/LogPreview.jpg "Img")
+![Img](/LogPreview.jpg)
+[![Img](/LogPreview.jpg)](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=54719529 "サメヤマ次郎")
+![Img][1]
+
+[1]: https://github.com/lPinchol/personalmarkdown-reference/LogPreview.jpg "Img"
+```
+
+![Img](https://github.com/lPinchol/personalmarkdown-reference/LogPreview.jpg "Img")
+![Img](/LogPreview.jpg)
+[![Img](/LogPreview.jpg)](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=54719529 "サメヤマ次郎")
+![Img][1]
+
+[1]: https://github.com/lPinchol/personalmarkdown-reference/LogPreview.jpg "Img"
+
 ###
