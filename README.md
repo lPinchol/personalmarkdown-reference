@@ -253,4 +253,22 @@ Para tomar cualquier nota [^1] a pie de pagina.
 
 [^1]: Esta seria la nota.
 
-### 
+### Abreviaciones
+
+```
+Markdown es bueno para todo.
+
+*[Markdown]: Esta es la abreviacion
+```
+
+Markdown es bueno para todo.
+
+*[Markdown]: Esta es la abreviacion
+
+
+## Creditos
+
+> * Referencia
+> [Markdown](https://daringfireball.net/projects/markdown/syntax)
+> * Imagen usada
+> [サメヤマ次郎](http://www.pixiv.net/member.php?id=2642288)
