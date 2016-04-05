@@ -217,4 +217,28 @@ aqui otro [link][2].
 
 [1]: https://github.com/lPinchol/personalmarkdown-reference/LogPreview.jpg "Img"
 
-###
+### Tablas
+
+```
+| Version     | Estado    | Bugs |
+| --------|---------|-------|
+| 1.0.0  | Estable   | 0 bugs    |
+| 2.0.0 | No Estable | 12 bugs    |
+
+| Version | Estado    | Bugs   |
+| --------|-----------|--------|
+| 1.0.0   | Estable   | 0 bugs |
+| 2.0.0   | No Estable| 12 bugs|
+```
+
+| Version     | Estado    | Bugs |
+| --------|---------|-------|
+| 1.0.0  | Estable   | 0 bugs    |
+| 2.0.0 | No Estable | 12 bugs    |
+
+| Version | Estado    | Bugs   |
+| --------|-----------|--------|
+| 1.0.0   | Estable   | 0 bugs |
+| 2.0.0   | No Estable| 12 bugs|
+
+### 
